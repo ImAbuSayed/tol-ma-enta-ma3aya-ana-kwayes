@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> # -*- coding: utf-8 -*-
+> lyrics = """
+> يا نور روحي في سكون الليل
+> أشعلتِ نار الشوق في دمي
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
